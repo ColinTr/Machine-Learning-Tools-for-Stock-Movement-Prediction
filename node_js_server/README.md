@@ -1,4 +1,7 @@
 # Node.js / Express web application
+Structure inspired from this repository : [Bulletproff NodeJS](https://github.com/santiq/bulletproof-nodejs)<br/>
+Using AlphaVantage API : [Alpha Vantage API](https://www.alphavantage.co/documentation/)<br/>
+With its npm wrapper : [npm wrapper](https://www.npmjs.com/package/alphavantage#browser-initialization)<br/>
 
 ## Development
 

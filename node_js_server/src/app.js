@@ -2,7 +2,7 @@ const logger = require('morgan');
 const express = require('express');
 const bodyParser = require('body-parser');
 
-const indexRouter = require('./api');
+const indexRouter = require('./routes');
 
 const app = express();
 
